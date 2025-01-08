@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Authored by Norman Brazhnyk
 
-Things you may want to cover:
+This is a project available at https://www.theodinproject.com/lessons/ruby-on-rails-members-only
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is an exclusive club house, where all posts are anonymous for non-members. However, members can see the author of each post.
