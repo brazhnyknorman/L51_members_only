@@ -1,0 +1,5 @@
+<% if current_user %>
+  <h5>posted by <%= post.user.email %> </h5>
+  <% else %>
+    <h6>Sign in to view the author of this post</h6>
+  <% end %>
